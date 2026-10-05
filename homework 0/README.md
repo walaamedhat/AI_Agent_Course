@@ -118,7 +118,7 @@ Open the `.env` file that was just created and replace the placeholder:
 OPENROUTER_API_KEY=paste-your-key-here
 ```
 
-Create and Account and create your own OpenRouter API key, [link](https://www.openrouter.ai/settings/keys). Keep it private — never
+Paste the shared API key we sent you. Keep it private — never
 commit the `.env` file to git (it's already in `.gitignore`, so git will
 ignore it automatically).
 
